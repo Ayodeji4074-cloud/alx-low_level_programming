@@ -1,12 +1,10 @@
 #include <stdio.h>
-
-	/**
-	 * main - Function entry point
-	 * Return: 0 to show code executed successfully
-	 */
-
-	int main(void)
-	{
-		puts("\"Programming is like building a multilingual puzzle");
-		return (0);
-	}
+/**
+ * main - Entry Point
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
