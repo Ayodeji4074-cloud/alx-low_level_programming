@@ -1,1 +1,1 @@
-Second part of studies about pointers, arrays and strings
+Pointers, arrays and strings part2
