@@ -1,1 +1,1 @@
-This file explains everything about bits and its operators
+This entails bits and its operators
