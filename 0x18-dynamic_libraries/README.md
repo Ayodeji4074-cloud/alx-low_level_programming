@@ -1,1 +1,1 @@
-This project created by Adeniyi Emmanuel entails the shared or dynamic library
+Shared or dynamic library readme file
